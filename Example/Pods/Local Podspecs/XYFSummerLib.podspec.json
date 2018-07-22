@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of XYFSummerLib.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/jonsnowwinterfell/XYFMyCommonRepo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "jonsnowwinterfell": "80398694@qq.com"
   },
   "source": {
-    "git": "/Users/yafengxia/Desktop/学习Test/SummerIsComing/XYFSummerLib",
+    "git": "https://github.com/jonsnowwinterfell/XYFMyCommonRepo.git",
     "tag": "0.1.0"
   },
   "platforms": {
