@@ -30,10 +30,6 @@
 + (BOOL)onlyDotTwoNumber:(NSString *)num;
 //验证数字
 +(BOOL)onlyNumValidate:(NSString *)num;
-/**
- *  获得ip地址
- */
-+ (NSString*)getIPAddress;
 //密码判断
 +(int)checkIsHaveNumAndLetter:(NSString*)password;
 //禁止输入特殊字符
@@ -42,8 +38,7 @@
 + (BOOL)JudgeTheillegalCharacter:(NSString *)content;
 //判断密码格式是否正确 6~16位数字子母
 +(BOOL)checkPassword:(NSString *) password;
-//昵称限制
-+(BOOL)checkNeckNameNum:(NSString *)NeckName;
+
 //正则去除网络标签
 +(NSString *)getZZwithString:(NSString *)string;
 @end
