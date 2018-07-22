@@ -1,0 +1,23 @@
+{
+  "name": "XYFSummerLib",
+  "version": "0.1.0",
+  "summary": "A short description of XYFSummerLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jonsnowwinterfell": "80398694@qq.com"
+  },
+  "source": {
+    "git": "/Users/yafengxia/Desktop/学习Test/SummerIsComing/XYFSummerLib",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XYFSummerLib/Classes/**/*.{h,m}",
+  "exclude_files": "Classes/Exclude"
+}
